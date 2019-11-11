@@ -25,7 +25,7 @@ console.log(refined)
 
 const bloggers = Blog.blogs.map(blog => blog.author)
 
-const uniquesBloggers = Blog.blogs.filter( onlyUnique )
+
 
 console.log(uniquesBloggers)
 
